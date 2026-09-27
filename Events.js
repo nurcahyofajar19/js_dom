@@ -35,3 +35,6 @@ p4.addEventListener ('click',function (){
     libaru.appendChild (teksli);
     ul.appendChild (libaru);
 });
+
+
+const p1 = document.querySelector ()
